@@ -30,9 +30,8 @@ The Student Performance Checker is a project aimed at tracking and analyzing stu
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions in the form of bug fixes, feature enhancements, or documentation improvements are welcome.
 
-## License
-[MIT License](LICENSE)
+
 
 ## Acknowledgements
 - [Flask](https://flask.palletsprojects.com/) - Web framework used for building the application
-- [OpenAI](https://openai.com/) - Inspiration and assistance
+
