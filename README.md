@@ -24,8 +24,8 @@ The Student Performance Checker is a project aimed at tracking and analyzing stu
    2. Open your web browser and go to `http://localhost:5000` to access the application.
 
 ## Screenshots
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 1](images/testimage.png)
+
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions in the form of bug fixes, feature enhancements, or documentation improvements are welcome.
